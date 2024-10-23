@@ -1,4 +1,4 @@
-# Interactive Pricing Card Component
+# Traffic-based-pricing
 
 This project features an interactive pricing card component designed for both desktop and mobile views. The card allows users to select different page view options and toggle between monthly and yearly billing, providing a seamless user experience.
 
@@ -25,6 +25,8 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Sancharisingh/Traffic-based-pricing.git
+
+
 2. **Navigate into the project directory:
 
     ```bash
@@ -32,5 +34,12 @@ To run this project locally, follow these steps:
 
 3. **Install the dependencies:
 
-  ```bash
-    npm install
+   ```bash
+   npm install
+
+4. **Run the development server:
+   ```bash
+   npm run dev
+
+5. Open your browser and go to http://localhost:3000.
+
